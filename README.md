@@ -5,9 +5,9 @@ The Project Manager App is designed to help users organize their projects and ta
 <br/>
 
 <div align="center">
-  <img width="33%" src="https://github.com/user-attachments/assets/61135700-05f9-409a-aef7-308cfc95cff2" />
-  <img width="33%" src="https://github.com/user-attachments/assets/83ef1d54-c33a-4a87-9462-39fcfbd09628" />
-  <img width="33%" src="https://github.com/user-attachments/assets/96e63448-cb3d-4196-a08a-0523f991dbfb" />
+  <img width="40%" src="https://github.com/user-attachments/assets/61135700-05f9-409a-aef7-308cfc95cff2" />
+  <img width="40%" src="https://github.com/user-attachments/assets/83ef1d54-c33a-4a87-9462-39fcfbd09628" />
+  <img width="40%" src="https://github.com/user-attachments/assets/96e63448-cb3d-4196-a08a-0523f991dbfb" />
 </div>
 <br/>
 
